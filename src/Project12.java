@@ -5,6 +5,7 @@ public class Project12 {
 		System.out.println("Hello again");
 		System.out.println("Hello again");
 		System.out.println("Suresh, Sridevi, Rohini, Sreenivas")
+		System.out.println("Trainer: Prashanth");
 	}
 
 }
